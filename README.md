@@ -3,9 +3,9 @@ Displays the state of the Caps Lock and Num Lock in Windows Notification using W
 
 I bought an Asus. The Caps Lock key and the Num Lock don't indicate their state. In other words, there is no keyboard lights to indicate if the Caps Lock or Num Lock keys are active or inactive.
 
-So I wrote this simple C# programming Visual Studio IDE (the IDE does most of the writing).
+So I wrote this simple C# program using Visual Studio IDE (the IDE does most of the writing).
 
-I also have a shortcut to the execuatble here, %AppData%\Microsoft\Windows\Start Menu\Programs\Startup\NumCapApp.exe
+I also have a shortcut to the executable for start up, %AppData%\Microsoft\Windows\Start Menu\Programs\Startup\NumCapApp.exe
 
 You will need to fiddle with the four indicator icons in the Notification area so you can always see the two visible states. They may reside in Hidden Icons until you move them to the toolbar.
 
