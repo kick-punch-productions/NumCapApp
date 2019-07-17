@@ -1,0 +1,10 @@
+D:\M3Documents\Development\VisualStudio\NumCapApp\bin\Release\NumCapApp.exe.config
+D:\M3Documents\Development\VisualStudio\NumCapApp\bin\Release\NumCapApp.exe
+D:\M3Documents\Development\VisualStudio\NumCapApp\bin\Release\NumCapApp.pdb
+D:\M3Documents\Development\VisualStudio\NumCapApp\obj\Release\NumCapApp.csprojAssemblyReference.cache
+D:\M3Documents\Development\VisualStudio\NumCapApp\obj\Release\NumCapApp.Form1.resources
+D:\M3Documents\Development\VisualStudio\NumCapApp\obj\Release\NumCapApp.Properties.Resources.resources
+D:\M3Documents\Development\VisualStudio\NumCapApp\obj\Release\NumCapApp.csproj.GenerateResource.cache
+D:\M3Documents\Development\VisualStudio\NumCapApp\obj\Release\NumCapApp.csproj.CoreCompileInputs.cache
+D:\M3Documents\Development\VisualStudio\NumCapApp\obj\Release\NumCapApp.exe
+D:\M3Documents\Development\VisualStudio\NumCapApp\obj\Release\NumCapApp.pdb
