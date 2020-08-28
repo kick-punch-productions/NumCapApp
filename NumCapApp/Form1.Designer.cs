@@ -33,7 +33,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
-            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.CapOn = new System.Windows.Forms.NotifyIcon(this.components);
             this.CapOff = new System.Windows.Forms.NotifyIcon(this.components);
             this.NumOn = new System.Windows.Forms.NotifyIcon(this.components);
@@ -67,21 +66,6 @@
             this.notifyIcon1.Visible = true;
             this.notifyIcon1.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.NotifyIcon1_MouseDoubleClick);
             // 
-            // linkLabel1
-            // 
-            this.linkLabel1.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.linkLabel1.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel1.LinkColor = System.Drawing.Color.Maroon;
-            this.linkLabel1.Location = new System.Drawing.Point(12, 55);
-            this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Padding = new System.Windows.Forms.Padding(10);
-            this.linkLabel1.Size = new System.Drawing.Size(168, 40);
-            this.linkLabel1.TabIndex = 2;
-            this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "iterate.com.au";
-            this.linkLabel1.VisitedLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LinkLabel1_LinkClicked);
-            // 
             // CapOn
             // 
             this.CapOn.BalloonTipIcon = System.Windows.Forms.ToolTipIcon.Info;
@@ -89,7 +73,6 @@
             this.CapOn.Icon = ((System.Drawing.Icon)(resources.GetObject("CapOn.Icon")));
             this.CapOn.Text = "Caps On";
             this.CapOn.Visible = true;
-            this.CapOn.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.CapOn_MouseDoubleClick);
             // 
             // CapOff
             // 
@@ -98,7 +81,6 @@
             this.CapOff.Icon = ((System.Drawing.Icon)(resources.GetObject("CapOff.Icon")));
             this.CapOff.Text = "Caps Off";
             this.CapOff.Visible = true;
-            this.CapOff.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.CapOff_MouseDoubleClick);
             // 
             // NumOn
             // 
@@ -106,8 +88,7 @@
             this.NumOn.BalloonTipText = "Double click to show window";
             this.NumOn.Icon = ((System.Drawing.Icon)(resources.GetObject("NumOn.Icon")));
             this.NumOn.Text = "Num On";
-            this.NumOn.Visible = true;
-            this.NumOn.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.NumOn_MouseDoubleClick);
+            this.NumOn.Visible = true;            
             // 
             // NumOff
             // 
@@ -116,7 +97,6 @@
             this.NumOff.Icon = ((System.Drawing.Icon)(resources.GetObject("NumOff.Icon")));
             this.NumOff.Text = "Num Off";
             this.NumOff.Visible = true;
-            this.NumOff.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.NumOff_MouseDoubleClick);
             // 
             // pictureBox1
             // 
@@ -134,7 +114,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(610, 289);
-            this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -151,7 +130,6 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.NotifyIcon notifyIcon1;
-        private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.NotifyIcon CapOn;
         private System.Windows.Forms.NotifyIcon CapOff;
         private System.Windows.Forms.NotifyIcon NumOn;

@@ -8,3 +8,13 @@ D:\M3Documents\Development\VisualStudio\NumCapApp\obj\Debug\NumCapApp.csproj.Cor
 D:\M3Documents\Development\VisualStudio\NumCapApp\obj\Debug\NumCapApp.exe
 D:\M3Documents\Development\VisualStudio\NumCapApp\obj\Debug\NumCapApp.pdb
 D:\M3Documents\Development\VisualStudio\NumCapApp\obj\Debug\NumCapApp.csprojAssemblyReference.cache
+C:\Users\richb\Documents\GitHub\NumCapApp\NumCapApp\bin\Debug\NumCapApp.exe.config
+C:\Users\richb\Documents\GitHub\NumCapApp\NumCapApp\bin\Debug\NumCapApp.exe
+C:\Users\richb\Documents\GitHub\NumCapApp\NumCapApp\bin\Debug\NumCapApp.pdb
+C:\Users\richb\Documents\GitHub\NumCapApp\NumCapApp\obj\Debug\NumCapApp.csprojAssemblyReference.cache
+C:\Users\richb\Documents\GitHub\NumCapApp\NumCapApp\obj\Debug\NumCapApp.Form1.resources
+C:\Users\richb\Documents\GitHub\NumCapApp\NumCapApp\obj\Debug\NumCapApp.Properties.Resources.resources
+C:\Users\richb\Documents\GitHub\NumCapApp\NumCapApp\obj\Debug\NumCapApp.csproj.GenerateResource.cache
+C:\Users\richb\Documents\GitHub\NumCapApp\NumCapApp\obj\Debug\NumCapApp.csproj.CoreCompileInputs.cache
+C:\Users\richb\Documents\GitHub\NumCapApp\NumCapApp\obj\Debug\NumCapApp.exe
+C:\Users\richb\Documents\GitHub\NumCapApp\NumCapApp\obj\Debug\NumCapApp.pdb
